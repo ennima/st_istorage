@@ -1,0 +1,11 @@
+{
+	"user":"media manager",
+	"data_path":"C:\\Users\\enrique.nieto\\Documents\\develops\\recup_stratus\\restore_datax.csv",
+	"lic_server":"http://192.168.196.73",
+	"lic_web_port":"8081",
+	"lic_file_port":"8080",
+	"lic_path":"/data/istorage_conf.json",
+	"local_temp":"/temp"
+	
+
+}
